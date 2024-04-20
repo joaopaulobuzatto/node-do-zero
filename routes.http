@@ -7,7 +7,7 @@ Content-Type: application/json
 
 {
     "title": "CRUD NodeJS",
-    "description": "CRUD NodeJS - Video 02",
+    "description": "CRUD NodeJS - Video 01",
     "duration": 180
 }
 
@@ -18,7 +18,7 @@ Content-Type: application/json
 
 {
     "title": "CRUD NodeJS",
-    "description": "CRUD NodeJS - Video 02 v2",
+    "description": "CRUD NodeJS - Video 01 v2",
     "duration": 180
 }
 
