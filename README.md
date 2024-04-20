@@ -34,6 +34,10 @@ npm run dev
 
 ## API Endpoints
 
+### Get all records
+
+GET /videos?search=filterDescription
+
 ### Create a new record
 
 POST /videos
@@ -46,10 +50,6 @@ Request body:
     "duration": 180
 }
 ```
-
-### Get all records
-
-GET /videos?search=filterDescription
 
 ### Update a record
 
