@@ -45,6 +45,7 @@ Request body:
     "description": "CRUD NodeJS - Video 01",
     "duration": 180
 }
+```
 
 ### Get all records
 
@@ -61,6 +62,7 @@ Request body:
     "description": "CRUD NodeJS - Video 01 Update",
     "duration": 180
 }
+```
 
 ### Delete a record
 
